@@ -5671,7 +5671,7 @@ you catch AsciiDoc syntax errors as you write your documents.
 The AsciiDoc distribution directory contains a Vim syntax highlighter
 for AsciiDoc (`./vim/syntax/asciidoc.vim`), you can find the latest
 version in the online
-https://code.google.com/p/asciidoc/source/browse/[AsciiDoc
+https://github.com/asciidoc/asciidoc[AsciiDoc
 repository].
 
 Install the highlighter by copying `asciidoc.vim` to your
